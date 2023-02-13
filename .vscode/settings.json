@@ -1,0 +1,26 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#37505b",
+    "activityBar.background": "#37505b"
+  },
+  "material-icon-theme.folders.theme": "specific",
+  "material-icon-theme.files.associations": {},
+  "material-icon-theme.folders.associations": {
+    "contact": "messages",
+    "NotFound": "private",
+    "blog": "Azure-pipelines",
+    "about": "coverage",
+    "sidebar": "mjml",
+    "heroSection": "constant",
+    "hero": "constant",
+    "Anim": "Animation",
+    "BlastAnim": "Animation",
+    "BlastAnimation": "Animation",
+    "Blast": "Animation",
+    "allThemeTemplate": "theme",
+    "ThemeTemplate": "theme",
+    "ThemingTemplate": "theme",
+    "Node":"Node",
+    "DSA":"Middleware"
+  }
+}
