@@ -18,6 +18,8 @@
 _Read this in other languages:_
 [_Español_](README.bn-BN.md),
 
+## [other's template](others.md)
+
 _☝ **Note** This is all about my opinion **not** any book info_
 
 ## **Java**
@@ -25,8 +27,8 @@ _☝ **Note** This is all about my opinion **not** any book info_
 A data structure is a particular
 
 - **Math**
-  - `B` [callback](src/java/concepts/callback) - distance between two points/vectors/matrices
   - `A` [Clouser](src/java/concepts/clouser)
+  - `B` [callback](src/java/concepts/callback) - distance between two points/vectors/matrices
   - `A` [function](src/java/concepts/function) - decompose a function of time (a signal) into the frequencies that make it up
 - **Sets**
   - `B` [heap](src/java/concepts/heap) - product of multiple sets
